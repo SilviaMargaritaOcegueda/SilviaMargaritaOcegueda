@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🌱 I’m currently doing a fullstack developer program looking forward to become a great backend developer and build amazing stuff.
-- 🔭 I'm currently working as a professional focused on digital marketing strategies. 
-- 👯 I’m looking to collaborate on a web app
+- 🌱 I’m working on become a smart contract developer, with a focus on DeFi protocols.
+- 🔭 I'm currently working as a digital marketer. 
+- 👯 I’m looking to collaborate on a DeFi project.
 - 😄 Beach, sports, healthy lifestyle, family
-- ⚡ Always growing, always learning
+- ⚡ All or nothing
 - 💬 Ask me about my journey through carrer change to tech world.
 
 <a href="https://www.learnenough.com/certificates/SilviaMargarita"><img src="https://www.learnenough.com/certificates/SilviaMargarita/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a>
