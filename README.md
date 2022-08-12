@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-- 🌱 I’m working on become a smart contract developer, with a focus on DeFi protocols.
-- 🔭 I'm currently working as a digital marketer. 
-- 👯 I’m looking to collaborate on a DeFi project.
+- 🌱 I’m a junor smart contract developer, with a focus on DeFi protocols.
+- 🔭 I'm currently transitioning from marketing to blockchain development. 
+- 📫 I'm tracking my path -> https://medium.com/@web3silviamargarita
+- 👯 I’m looking to collaborate on a DeFi project and become a smart contract auditor.
 - 😄 Beach, sports, healthy lifestyle, family
 - ⚡ All or nothing
 - 💬 Ask me about my journey through carrer change to tech world.
