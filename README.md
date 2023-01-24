@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m a junior smart contract developer, with a focus on DeFi protocols.
+- 🌱 I’m a junior developer with a focus on DeFi protocols.
 - 🔭 I'm currently transitioning from marketing to blockchain development. 
 - 📫 I'm tracking my path -> https://medium.com/@web3silviamargarita
 - 😄 Beach, sports, healthy lifestyle, family
