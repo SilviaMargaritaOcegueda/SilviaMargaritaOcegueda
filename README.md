@@ -1,4 +1,4 @@
-### Hi there
+### Hi there,
 
 - I’m a junior developer with a focus on DeFi protocols. 
 - I'm tracking my path -> https://medium.com/@web3silviamargarita
